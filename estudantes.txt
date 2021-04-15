@@ -2,4 +2,5 @@ henrique
 guilherme
 gustavo
 bruno
-git status
+lucas
+thiago
