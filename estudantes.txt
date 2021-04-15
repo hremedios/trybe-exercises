@@ -1,0 +1,5 @@
+henrique
+guilherme
+gustavo
+bruno
+git status
