@@ -1,5 +1,5 @@
 
-let grade = 88;
+let grade = 85;
 
 if (grade < 0 || grade > 100) {
   console.log("Erro, nota incorreta!");
