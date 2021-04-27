@@ -1,4 +1,4 @@
-let chessPiece = 'Rei';
+let chessPiece = 'Rgiei';
 
 switch (chessPiece.toLowerCase()) {
     case 'rei':
